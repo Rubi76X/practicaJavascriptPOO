@@ -1,5 +1,5 @@
 # Práctica Orientación a Objetos con JavaScript
-### Curso alura latam - One Next Education
+### Curso Alura Latam - One Next Education
 
 ## Temas vistos
 - Creación de clases
